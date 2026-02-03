@@ -91,6 +91,27 @@ Junior Python Backend-разработчик с уникальным 15-летн
 
 ---
 
+## 📝 Полезные Gists (сниппеты и шпаргалки)
+
+### 🚀 Git & Рабочие процессы
+- [**Git Cheatsheet**](https://gist.github.com/oleg-dixon/ea7e41bd69dda7ccbf24ad53b2c46d5c) - Полная шпаргалка по Git с Git Flow и Conventional Commits
+
+### 🐳 DevOps & Инфраструктура
+- [**Docker Cheatsheet**](https://gist.github.com/oleg-dixon/7bd9381d278ecbb4d0217da1c93a178a) - Основные команды Docker
+- [**Linux Command Line**](https://gist.github.com/oleg-dixon/66c4283cda33c8c7a49773e601f75d35) - Команды Linux для разработчика
+
+### 🗃️ Базы данных & SQL
+- [**SQL Cheatsheet**](https://gist.github.com/oleg-dixon/209716c9dc6e5a439e3eaa6ae5b86ff2) - Основные SQL запросы
+
+### 🐍 Python & Backend *(в разработке)*
+- Flask/Django сниппеты
+- Python утилиты для анализа данных
+- Конфигурации для проектов
+
+📚 **Все Gists:** [gist.github.com/oleg-dixon](https://gist.github.com/oleg-dixon)
+
+---
+
 ## 📈 Опыт работы
 
 ### **ООО «МЭКА»** (г. Орск) | **Оценщик, эксперт** (2011 — настоящее время, 15 лет)
