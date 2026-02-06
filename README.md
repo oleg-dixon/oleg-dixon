@@ -66,7 +66,8 @@ Junior Python Backend-разработчик с уникальным 15-летн
 ### **🔥 Telegram-бот для оценщиков** (Pet проект)
 **Backend на Python** | Бот для автоматизации создания Word-документов с таблицами из фотографий  
 **Стек:** Python, python-telegram-bot, PIL/Pillow, python-docx  
-**🔗 Репозиторий:** [appraiser-photo-bot](https://github.com/oleg-dixon/appraiser-photo-bot)  
+**🔗 Репозиторий:** [appraiser-photo-bot](https://github.com/oleg-dixon/appraiser-photo-bot)
+**🔗 Ссылка на бот:** [Appraiser Photo Bot](https://t.me/appraiser_photo_bot)
 **🎯 Результат:** Сократил время подготовки шаблонных разделов отчетов на ~20% в реальной работе оценщика
 
 ### **🌐 Анализатор страниц** (Учебный проект)
@@ -94,14 +95,14 @@ Junior Python Backend-разработчик с уникальным 15-летн
 ## 📝 Полезные Gists (сниппеты и шпаргалки)
 
 ### 🚀 Git & Рабочие процессы
-- [**Git Cheatsheet**](https://gist.github.com/oleg-dixon/ea7e41bd69dda7ccbf24ad53b2c46d5c) - Полная шпаргалка по Git с Git Flow и Conventional Commits
+- [**Git Cheatsheet**](https://gist.github.com/oleg-dixon/b37719ad4aeb90f0dd830cfcfb1aa5cc) - Полная шпаргалка по Git с Git Flow и Conventional Commits
 
 ### 🐳 DevOps & Инфраструктура
-- [**Docker Cheatsheet**](https://gist.github.com/oleg-dixon/7bd9381d278ecbb4d0217da1c93a178a) - Основные команды Docker
-- [**Linux Command Line**](https://gist.github.com/oleg-dixon/66c4283cda33c8c7a49773e601f75d35) - Команды Linux для разработчика
+- [**Docker Cheatsheet**](https://gist.github.com/oleg-dixon/922839210ad4c11e5cb20da7f172bbe4) - Основные команды Docker
+- [**Linux Command Line**](https://gist.github.com/oleg-dixon/379d0440dbe06343a0c25d524a8bff3e) - Команды Linux для разработчика
 
 ### 🗃️ Базы данных & SQL
-- [**SQL Cheatsheet**](https://gist.github.com/oleg-dixon/209716c9dc6e5a439e3eaa6ae5b86ff2) - Основные SQL запросы
+- [**SQL Cheatsheet**](https://gist.github.com/oleg-dixon/6a7977ad3875df0df04065cdbd39f01d) - Основные SQL запросы
 
 ### 🐍 Python & Backend *(в разработке)*
 - Flask/Django сниппеты
