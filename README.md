@@ -45,22 +45,6 @@ Junior Python Backend-разработчик с уникальным 15-летн
 
 ---
 
-## 📊 GitHub статистика
-
-<!-- Основная статистика -->
-![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-dixon&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-<!-- Топ языков -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-dixon&layout=compact&theme=default&hide_border=true)
-
-<!-- Streak статистика -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=oleg-dixon&theme=default)](https://git.io/streak-stats)
-
-<!-- Счетчик просмотров -->
-![Profile Views](https://komarev.com/ghpvc/?username=oleg-dixon&color=blue)
-
----
-
 ## 💼 Проекты (Портфолио)
 
 ### **🔥 Telegram-бот для оценщиков** (Pet проект)
